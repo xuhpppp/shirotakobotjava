@@ -13,3 +13,5 @@ function:
 - punch + @someone
 - mute + @someone + time(m/h) + reason(optional)
 - download + [nhentailink] (example: https://nhentai.net/g/391152/)
+
+note: token is changed
